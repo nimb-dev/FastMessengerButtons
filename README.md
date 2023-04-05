@@ -1,6 +1,6 @@
-# Кнопки быстрого обмена сообщениями (Viber, Telegram, WhatsApp,)
+# <img src="screenshots/preview.png" width="35"> Кнопки быстрого обмена сообщениями (Viber, Telegram, WhatsApp,)
 
-Module FastMessengerButtons
+<b>Module FastMessengerButtons - <a href="https://okay-cms.com/products/fastmessengerbuttons_1.0.0-fastmessengerbuttons" target="_blank">Маркетплейс</a></b>
 
 Данный модуль выводит кнопки быстрого перехода в чат с клиентом для Viber, Telegram, Whatsapp, и кнопку вызова по номеру телефона на страницах подробного заказа в поле "Информация о покупателе" под номером телефона клиента. Также можно отключить отображение кнопок в "Настройки отображения кнопок".
 
