@@ -4,7 +4,7 @@ Module FastMessengerButtons
 
 Данный модуль выводит кнопки быстрого перехода в чат с клиентом для Viber, Telegram, Whatsapp, и кнопку вызова по номеру телефона на страницах подробного заказа в поле "Информация о покупателе" под номером телефона клиента. Также можно отключить отображение кнопок в "Настройки отображения кнопок".
 
-<img src="screenshots/viber.png" width="35" height="35" title="Viber"> <img src="screenshots/telegram.png" width="35" height="35" title="Telegram"> <img src="screenshots/whatsapp.png" width="35" height="35" title="WhatsApp"> <img src="screenshots/phone.png" width="35" height="35" title="Phone">
+<img src="screenshots/viber.png" width="35" height="35" title="Viber"> <img src="screenshots/telegram.png" width="30" height="30" title="Telegram"> <img src="screenshots/whatsapp.png" width="35" height="35" title="WhatsApp"> <img src="screenshots/phone.png" width="35" height="35" title="Phone">
 <br>
 
 # Результат работы модуля
